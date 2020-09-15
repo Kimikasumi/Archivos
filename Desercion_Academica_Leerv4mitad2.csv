@@ -1,4 +1,5 @@
-﻿INGENIERÍA DE SISTEMAS,Masculino,33367,26,1,10,5,26,12,2,247,2,555,1,DESERTOR
+﻿Carrera,Sexo,FechaNacimiento,Edad,Semestre,AsignaturasCursadas,AsignaturasAprobadas,CreditosCursados,CreditosAprobados,PromedioUltimoPeriodo,PromedioAcumulado,Duracion,Estado
+INGENIERÍA DE SISTEMAS,Masculino,33367,26,1,10,5,26,12,2,247,2,555,1,DESERTOR
 INGENIERÍA DE SISTEMAS,Masculino,30482,34,10,39,30,114,82,3,5,3,5,9,GRADUADO
 INGENIERÍA DE SISTEMAS,Masculino,33862,25,5,48,30,150,93,3,038,3,091,13,ACTIVO
 INGENIERÍA DE SISTEMAS,Masculino,33100,27,8,29,22,92,70,3,475,3,609,6,ACTIVO
